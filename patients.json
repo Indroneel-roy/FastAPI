@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Mahiya Rahman",
+    "city": "Dhaka",
+    "age": 27,
+    "gender": "female",
+    "height": 1.60,
+    "weight": 85.0,
+    "bmi": 33.20,
+    "verdict": "Obese"
+  },
+  "P002": {
+    "name": "Tanvir Hossain",
+    "city": "Chittagong",
+    "age": 34,
+    "gender": "male",
+    "height": 1.78,
+    "weight": 83,
+    "bmi": 26.19,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Nusrat Jahan",
+    "city": "Sylhet",
+    "age": 21,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 40,
+    "bmi": 16.64,
+    "verdict": "Underweight"
+  },
+  "P004": {
+    "name": "Fahim Ahmed",
+    "city": "Rajshahi",
+    "age": 38,
+    "gender": "male",
+    "height": 1.82,
+    "weight": 92,
+    "bmi": 27.77,
+    "verdict": "Overweight"
+  },
+  "P005": {
+    "name": "Sumaiya Akter",
+    "city": "Khulna",
+    "age": 32,
+    "gender": "female",
+    "height": 1.50,
+    "weight": 72,
+    "bmi": 32.00,
+    "verdict": "Obese"
+  }
+}
